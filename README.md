@@ -8,13 +8,9 @@ This repository contains my PhD research projects focused on applying supervised
 
 **2. Effect of Soot Thickness on Antenna Frequencies**
 
-•	Script: Project_DWAS_Soot_Sensor_sklearn.py (sklearn)
+•	Notebook: Project_DWAS_Soot_Sensor_sklearn.py (sklearn)
 
-•	Script: Project_DWAS_Soot_Sensor.py (custom-built models)
-
-•	Script: Project_DWAS_Soot_Sensor_BatchGD_Hyperparameters_Tuning.py
-
-•	Notebook: Project_DWAS_Soot_Sensor_Kaggle.ipynb
+•	Notebook: Project_DWAS_Soot_Sensor.py (custom-built models)
 
 **3. Effect of Temperature and Strain on Antenna Frequencies**
 
