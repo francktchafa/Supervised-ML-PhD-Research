@@ -18,9 +18,9 @@ This repository contains my PhD research projects focused on applying supervised
 
 **4. Effect of Temperature and Soot Thickness on Antenna Frequencies**
 
-•	Script: Project_DWAS_Temperature_Soot_Sensor_CV_MiniBatchGD_Hyperparameters_Tuning.py
+•	Notebook: Project_DWAS_Temperature_Soot_Sensor_CV_MiniBatchGD_Hyperparameters_Tuning.py
 
-•	Script: Project_DWAS_Temperature_Soot_Sensor_sklearn.py
+•	Notebook: Project_DWAS_Temperature_Soot_Sensor_sklearn.py
 
 **Skills:**
 Linear Regression, Multilinear Regression, Multivariate Regression, Polynomial Regression, Feature Engineering, Scikit-Learn, Hyperparameter Tuning, Optimization Methods (Learning Rate Decay, Mini-Batch Gradient Descent, Momentum, Adam Optimizer)
